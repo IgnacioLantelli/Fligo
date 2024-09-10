@@ -1,7 +1,11 @@
-Data Science Template CoockieCutter
+Data Science for Fligo
 ==============================
+NOTE
+The Jupyter notebook to complete is inside the notebook folder.
 
-Project
+
+Project 
+
 
 Project Organization
 ------------
